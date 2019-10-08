@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+        <style> 
+        
+        h2 {color: green}
+        body {background-color: grey}
+        
+        </style>
+
+    </head>
+    
+    <img rcs="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwilq8aX54zlAhVEVhoKHRK-A4oQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.independent.co.uk%2Flife-style%2Ffood-and-drink%2Fvegan-diet-body-changes-veganism-year-a8493936.html&psig=AOvVaw3ZOQWcXpXxvUG6kzyiyGdG&ust=1570629016008592">
+    <body>
+    <h1>Vegan website</h1>
+    <h2>Why become vegan ?</h2>
+
+<ol>
+    <li>To reduce your carbon footprint</li>
+    <li>To be more healthy</li>
+    <li>Animals' rights<li>
+</ol>    
+
+<h2>How to become vegan ?</h2>
+<p><strong>You can not become vegan in one day</strong>. This is a long processus of habits' transformation.This website will help you to become progressvely vegan and to adapt safety your new habits ! Welcome !</p>
+
+</body>
+
+</html>
